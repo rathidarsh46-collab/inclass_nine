@@ -45,3 +45,4 @@ class GhostPainter extends CustomPainter {
   @override
   bool shouldRepaint(covariant GhostPainter oldDelegate) => false;
 }
+
